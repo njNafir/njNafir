@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on python django
-- 🌱 I’m currently learning odoo
-- 👯 I’m looking to collaborate on odoo community
-- 🤔 I’m looking for help with odoo
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on python community
+- 🤔 I’m looking for help with python
 - 💬 Ask me about how nj nafir can help you to go forther
 - 📫 How to reach me: linkedin.com/in/njnafir
