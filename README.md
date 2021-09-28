@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on python odoo,django,analytics
+- 🔭 I’m currently working on python odoo,analytics,django
 - 🌱 I’m currently learning odoo,analytics
 - 👯 I’m looking to collaborate on analytics community
 - 🤔 I’m looking for help with analytics
