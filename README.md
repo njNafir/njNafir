@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on python django
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on python community
-- 🤔 I’m looking for help with python
+- 🔭 I’m currently working on python odoo,django,analytics
+- 🌱 I’m currently learning odoo,analytics
+- 👯 I’m looking to collaborate on analytics community
+- 🤔 I’m looking for help with analytics
 - 💬 Ask me about how nj nafir can help you to go forther
 - 📫 How to reach me: linkedin.com/in/njnafir
