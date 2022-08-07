@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="left" src="https://orhun.dev/img/crow.png">
+
+### Hey! 👋
+
+I'm someone who is passionate about **Python/AWS/Odoo/Django/Serverless** and likes to **analyze data**.
+
+Ping me on `live:.cid.88cd2a72e70f33d` if you want to chat!
+
+✨ [Portfolio Website](http://njnafir.com) ✨ [njnafir@gmail.com](mailto:njnafir@gmail.com) ✨ [Whatsapp](https://wa.me/8801772318448?text=GitHub) ✨ [Linkedin](https://linkedin.com/in/njnafir) ✨
 
 <!--
 **njNafir/njNafir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on python odoo,analytics,django
-- 🌱 I’m currently learning odoo,analytics
-- 👯 I’m looking to collaborate on analytics community
-- 🤔 I’m looking for help with analytics
-- 💬 Ask me about how nj nafir can help you to go forther
+- 🔭 I’m currently working on Python, AWS, Odoo, Analytics, Django
+- 🌱 I’m currently learning Odoo, Analytics
+- 👯 I’m looking to collaborate on Analytics community
+- 🤔 I’m looking for help with Analytics
+- 💬 Ask me about how NJ Nafir can help you to go forther
 - 📫 How to reach me: linkedin.com/in/njnafir
