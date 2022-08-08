@@ -29,3 +29,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Analytics
 - 💬 Ask me about how NJ Nafir can help you to go forther
 - 📫 How to reach me: linkedin.com/in/njnafir
+
+I mostly work with **Python, AWS, Odoo, Django, Serverless** these days. See my _pinned demos_ below.
+
+Other than that, here are a few interesting **projects** (in **React**, **Vue**, **Next**) that are worth mentioning:
+
+- ✨ [Retail ERP](https://www.odoo.com/) - Complete ERP for Retail business using Odoo
+- ✨ [Retail eCommerce](https://amarbay.com/en/) - Retail eCommerce business presence
+- ✨ [SkyTrip](https://skytrip.com/) - A web site to purchase airlines ticket online around the world
+- ✨ [Mapplate](http://mapplate.nl/) - MapPlate system with QR menu for restaurant menu, cafe menu or products cataloge
+- ✨ [SkyTrip Agent](https://agent.skytrip.com/) - Book Airline Tickets At The Best Prices
+- ✨ [NTK](https://github.com/njNafir/ntk) - Automated GUI framework using Python Tcl/Tk
