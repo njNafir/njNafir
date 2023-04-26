@@ -23,16 +23,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Python, AWS, Odoo, Analytics, Django
-- 🌱 I’m currently learning Odoo, Analytics
+- 🔭 I’m currently working on Python, Node.js, AWS, Micro-services,and Analytics
+- 🌱 I’m currently learning Analytics
 - 👯 I’m looking to collaborate on Analytics community
-- 🤔 I’m looking for help with Analytics
 - 💬 Ask me about how NJ Nafir can help you to go forther
 - 📫 How to reach me: linkedin.com/in/njnafir
 
-I mostly work with **Python, AWS, Odoo, Django, Serverless** these days. See my _pinned demos_ below.
+I mostly work with **Python, Node.js, AWS, Serverless, Micro-services** these days. See my _pinned demos_ below.
 
-Other than that, here are a few interesting **projects** (in **React**, **Vue**, **Next**) that are worth mentioning:
+Other than that, here are a few interesting **projects** (in **Scraping**, **Big Data**, **Machine Learning**) that are worth mentioning:
 
 - ✨ [Retail ERP](https://www.odoo.com/) - Complete ERP for Retail business using Odoo
 - ✨ [Retail eCommerce](https://amarbay.com/en/) - Retail eCommerce business presence
